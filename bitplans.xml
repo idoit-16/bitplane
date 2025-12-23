@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <game id="bitplane">
+        <title>Bitplane</title>
+        <description>Web-based interactive project</description>
+        <url>https://idoit-16.github.io/bitplane/</url>
+        <launchfile>index.html</launchfile>
+        <files>
+            <file>index.html</file>
+            <file>index.js</file>
+            <file>styles.css</file>
+        </files>
+    </game>
+</games>
