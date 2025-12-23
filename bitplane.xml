@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>Bitplane</name>
+  <repo>https://github.com/idoit-16/bitplane</repo>
+  <files>
+    <file path="index.html" />
+    <file path="src/main.js" />
+  </files>
+</project>
